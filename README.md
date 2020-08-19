@@ -10,6 +10,7 @@ Homepage Bengkelweb: [Bengkelweb](https://bengkelwebindonesia.com/)
 
 ## Panduan Instalasi
 1. Clone repository ini ke directory Anda
-2. Instal node_modules menggunakan `npm install`
+2. Instal modul-modul yang dibutuhkan menggunakan perintah `npm install`
+3. Compile SCSS menggunakan perintah `npm run compile`
 
 Anda bisa langsung membuka aplikasi ini melalui `index.html`.
